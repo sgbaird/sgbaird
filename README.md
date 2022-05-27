@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A popular logging saying goes "give me six hours to chop down a tree and I will spend the first four sharpening the axe." Unlike chopping down a tree, research skills are often transferable to other "research trees". Eventually, axes are replaced by chainsaws and chainsaws by [tigercats](https://www.tigercat.com/), where tasks that once took hours and days now take only minutes and seconds.
+A popular logging saying goes "give me six hours to chop down a tree and I will spend the first four sharpening the axe." Unlike an axe which dulls with each blow, research skills are often transferable to other "research trees". Eventually, axes are replaced by chainsaws and chainsaws by [tigercats](https://www.tigercat.com/), where tasks that once took hours and days now take only minutes and seconds.
 
 - 🔭 I’m currently working on [guided diffusion generative models](https://github.com/sparks-baird/palette-dft-relaxation-surrogate)
 - 🌱 I’m currently learning [PyScaffold](https://pyscaffold.org/en/stable/) and related best practice workflows
