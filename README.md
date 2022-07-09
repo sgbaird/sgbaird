@@ -9,3 +9,4 @@ A popular logging saying goes "give me six hours to chop down a tree and I will 
 - 💬 Ask me about [tips, tricks, and tools](https://github.com/sparks-baird/auto-paper) to automate research tasks
 - 📫 How to reach me: sterling.baird@utah.edu
 - ⚡ Fun fact: I like to breakdance
+- 📩 Want to get in touch? sterling.baird@utah.edu
