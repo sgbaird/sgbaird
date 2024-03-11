@@ -6,7 +6,7 @@ A popular saying goes "give me six hours to chop down a tree and I will spend th
 - 🌱 I’m currently learning [model deployment via HuggingFace](https://huggingface.co/docs/hub/en/spaces-overview) and [the Adaptive Experimentation (Ax) Platform](https://ax.dev/)
 - 👯 I’m looking to collaborate on advanced Bayesian optimization applied to real-world materials science tasks (see [Honegumi](https://honegumi.readthedocs.io/en/latest/)) and the creation of [low-cost self-driving labs](https://chemrxiv.org/engage/chemrxiv/article-details/654e5f25dbd7c8b54b063ab3) for research and education, such as with [AC Microcourses](https://ac-microcourses.readthedocs.io/en/latest/)
 - 🤔 I’m looking for help building out the [Acceleration Consortium (AC) Training Lab](https://ac-training-lab.readthedocs.io/en/latest/)
-- 📫 How to reach me: [mailto:sterling.baird@utoronto.ca](sterling.baird@utoronto.ca)
+- 📫 How to reach me: [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca)
 - ⚡ Fun fact: I like to breakdance
 
 <!--- - 💬 Ask me about [tips, tricks, and tools](https://github.com/sparks-baird/auto-paper) to automate research tasks --->
