@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-As a [staff scientist](https://acceleration.utoronto.ca/researcher/sterling-baird) within the Acceleration Consortium's AI & automation lab ("SDL0"), my focus is on adaptive experimentation. I implement software-orchestrated, human-in-the-loop, high-impact Bayesian optimization workflows that run 24/7 across each of our labs.
+I am entering as an assistant professor of mechanical engineering at Brigham Young University, beginning Winter 2026, where I'll focus on building an autonomous research laboratory focused on alloys and electrochemistry. My research will also cover advanced Bayesian optimization topics including multi-task optimization and Turing test-style optimization benchmarks.
+
+Until Dec 2025, as a [staff scientist](https://acceleration.utoronto.ca/researcher/sterling-baird) within the Acceleration Consortium's AI & automation lab ("SDL0"), my focus is on adaptive experimentation. I implement software-orchestrated, human-in-the-loop, high-impact Bayesian optimization workflows that run 24/7 across each of our labs.
 
 Previously, I directed the training programs at Acceleration Consortium (AC) including the [AC Training Lab](https://ac-training-lab.readthedocs.io/en/latest/), [AC Microcourses](https://ac-microcourses.readthedocs.io/en/latest/), [workshops](https://www.youtube.com/watch?v=IVaWl2tL06c&ab_channel=TaylorSparks), [AC Hackathons](https://ac-bo-hackathon.github.io/), seminars, and outreach. I helped build solutions for deployment to the AC's core labs (~30 full-time staff scientists) and the broader ecosystem.
 
