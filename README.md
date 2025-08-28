@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am entering as an assistant professor of mechanical engineering at Brigham Young University, beginning Winter 2026, where I'll focus on building an autonomous research laboratory focused on alloys and electrochemistry. My research will also cover advanced Bayesian optimization topics including multi-task optimization and Turing test-style optimization benchmarks.
+I am entering as an assistant professor of mechanical engineering at Brigham Young University, beginning Winter 2026, where I'll focus on building an autonomous research laboratory for alloys and electrochemistry. My research will also cover advanced Bayesian optimization topics including multi-task optimization and Turing test-style optimization benchmarks.
 
 Until Dec 2025, as a [staff scientist](https://acceleration.utoronto.ca/researcher/sterling-baird) within the Acceleration Consortium's AI & automation lab ("SDL0"), my focus is on adaptive experimentation. I implement software-orchestrated, human-in-the-loop, high-impact Bayesian optimization workflows that run 24/7 across each of our labs.
 
