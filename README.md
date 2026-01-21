@@ -13,7 +13,7 @@ A popular saying that resonates with me is: "give me six hours to chop down a tr
 - 🔭 I recommend checking out on [Honegumi](https://honegumi.readthedocs.io/en/latest/), a template generator for Bayesian optimization scripts
 - 🌱 I’m currently learning how to automate web browsers via e.g., https://browser-use.com/ and Playwright
 - 🤝 I’m looking to collaborate on additively manufactured aerospace alloys, electrochemistry, and advanced Bayesian optimization
-- 🤔 I’m looking for help - come visit or join the Vertical Cloud Lab @ BYU to build out hardware and software solutions for autonomous experiments
+- 🤔 I’m looking for help - come visit or join the [Vertical Cloud Lab @ BYU](https://github.com/vertical-cloud-lab) to build out hardware and software solutions for autonomous experiments
 - 📫 How to reach me: [sterling.baird@byu.edu](mailto:sterling.baird@byu.edu)
 - ⚡ Fun fact: I like to breakdance
 
