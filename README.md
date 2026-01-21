@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As an assistant professor of mechanical engineering at Brigham Young University, I am building an autonomous research laboratory for alloys and electrochemistry as part of the [Vertical Cloud Lab @ BYU](https://github.com/vertical-cloud-lab). My research also spans to advanced Bayesian optimization topics including multi-task optimization and Turing test-style optimization benchmarks.
+As an assistant professor of Mechanical Engineering at Brigham Young University, I am building the [Vertical Cloud Lab @ BYU](https://github.com/vertical-cloud-lab), an autonomous research laboratory for alloys and electrochemistry. My research also involves advanced Bayesian optimization topics including multi-task optimization and Turing test-style optimization benchmarks.
 
 Until Dec 2025, as a [staff scientist](https://acceleration.utoronto.ca/researcher/sterling-baird) within the Acceleration Consortium's AI & automation lab ("SDL0"), my focus was on implementing adaptive experimentation workflows across the Acceleration Consortium's seven core self-driving labs.
 
